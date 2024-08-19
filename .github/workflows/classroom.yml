@@ -20,7 +20,7 @@ jobs:
         test-name: Quiz 1
         setup-command: ''
         command: Which of the following best describes software engineering?
-        input: |-  b) The process of designing, developing, and maintaining software
+        input: |-  
           a) The study of hardware components
           b) The process of designing, developing, and maintaining software
           c) The analysis of networking protocols
